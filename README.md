@@ -31,7 +31,7 @@ All previous objectives have been met.
 ## Current Screenshot for Reference
 <br>
 
-![alt text](https://raw.githubusercontent.com/rerun1/wordOrder/master/img/screenShot8-12-19.png)
+![alt text](https://raw.githubusercontent.com/rerun1/wordOrder/master/img/screenShot8-13-19.png)
 <br>
 <br>
 
